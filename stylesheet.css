@@ -1,0 +1,164 @@
+
+header{
+    width: 1300px;
+    height: 240px;
+}
+.logo{
+    padding-top: 20px;
+    margin-left: 250px;
+    float: left;
+}
+.header-txt ul{
+    margin-right: 60px;
+    padding-top: 70px;
+}
+.header-txt li{
+    list-style: none;
+    float: right;
+    margin-right: 40px;
+    font-family: 'Noto Serif JP', serif;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    opacity: 0.4;
+    text-decoration: underline;
+}
+body{
+    width: 1300px;
+    height: 800px;
+    font-size: 16px;
+}
+.wrap-photo{
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.text{
+    margin-left: 30px;
+    margin-top: 75px;
+    font-family: 'Noto Serif JP', serif;
+    font-family: 'Shippori Mincho B1', serif;
+    border-radius: 23px;
+}
+.icon:before{
+    content: "";
+    padding-right: 13px;
+    padding-left: 13px;
+    border-left: 12px solid #c0c942;
+}
+h2{
+    font-family: 'Noto Serif JP', serif;
+}
+.text span{
+    margin-right: 7px;
+}
+p{
+    line-height: 33px;
+}
+table{
+    border-collapse: collapse;
+    width: 1000px;
+    text-align: center;
+    margin: 20px 0 0px 125px;
+    padding-bottom: 30px;
+}
+th{
+    background-color: #bbbfbf;
+}
+td{
+    padding: 8px 22px;
+}
+.text a{
+    color: #4685e3;
+    text-decoration: none;
+}
+.explain{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.explain img{
+    margin-left: 140px;
+    border-radius: 50%;
+}
+.explain p{
+    padding: 20px;
+    border: 3px solid #000000;
+    border-radius: 20px;
+    margin-top: 35px;
+    float: right;
+    margin-right: 300px;
+    background-color: #edf0f0;
+}
+.form dl dt{
+  width: 165px;
+  padding: 10px 0;
+  float: left;
+  clear: both;
+}
+.form dl dd{
+  padding:10px 0;
+}
+.form .name{
+  width: 150px;
+  height: 25px;
+}
+.form .email{
+  width: 250px;
+  height: 25px;
+}
+.form .type{
+  width: 220px;
+  height: 25px;
+}
+.form .message{
+  width: 660px;
+  height: 130px;
+}
+.form .required:before{
+  content: " ⚠︎ ";
+  color: #ff0000;
+}
+.form{
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+.content-txt{
+    margin-left: 20px;
+}
+.btn{
+    margin: 30px 0 30px 150px;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1.4px solid;
+    background-color: #ffffff;
+}
+button:hover{
+    background-color: #a4cf40;
+}
+footer{
+    width: 1410px;
+    margin-top: 130px;
+    text-align: center;
+    background-color: #d6d6d6;
+}
+.expalin span{
+    float: right;
+}
+h2{
+    background-color: #e3e4e6;
+    margin-bottom: 60px;
+    padding: 16px 0;
+}
+#contact{
+    margin-top: 120px;
+}
+.profile-content span{
+    background-color: #f5ebcb;
+}
+.background span{
+    background-color: #f5ebcb;
+}
