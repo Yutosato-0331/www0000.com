@@ -7,7 +7,7 @@
 <link href="../css/style.css" rel="stylesheet">
 </head>
   
-<body color="red">
+<body　style = "color:red";>
   
   
 <!--header-->
